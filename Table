@@ -25,6 +25,10 @@
             <td>Biology</td>
             <td>75</td>
         </tr>
+        <tr>
+            <td>Physics</td>
+            <td>65</td>
+        </tr>
     </table>
 </body>
 
