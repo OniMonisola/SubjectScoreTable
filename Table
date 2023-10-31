@@ -21,6 +21,10 @@
             <td>English</td>
             <td>40</td>
         </tr>
+        <tr>
+            <td>Biology</td>
+            <td>75</td>
+        </tr>
     </table>
 </body>
 
