@@ -17,6 +17,10 @@
             <td>Mathematics</td>
             <td>50</td>
         </tr>
+        <tr>
+            <td>English</td>
+            <td>40</td>
+        </tr>
     </table>
 </body>
 
