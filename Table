@@ -37,6 +37,10 @@
             <td>Computer science</td>
             <td>65</td>
         </tr>
+        <tr>
+            <td>Yoruba</td>
+            <td>85</td>
+        </tr>
     </table>
 </body>
 
