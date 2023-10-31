@@ -45,6 +45,10 @@
             <td>Economics</td>
             <td>70</td>
         </tr>
+        <tr>
+            <td>Agric</td>
+            <td>95</td>
+        </tr>
     </table>
 </body>
 
