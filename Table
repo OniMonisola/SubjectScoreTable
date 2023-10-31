@@ -33,6 +33,10 @@
             <td>Chemistry</td>
             <td>80</td>
         </tr>
+        <tr>
+            <td>Computer science</td>
+            <td>65</td>
+        </tr>
     </table>
 </body>
 
